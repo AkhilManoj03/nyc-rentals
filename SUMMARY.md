@@ -1,0 +1,8 @@
+# NYC Apartment Tracker
+
+| Status | Apt | Neighborhood | Gross Rent | Net Rent | Beds | Baths | Sq Ft | Laundry | Utilities | Commute | Broker Fee | Year Built | Pets | Available | Score | Report |
+|--------|-----|--------------|------------|----------|------|-------|-------|---------|-----------|---------|------------|------------|------|-----------|-------|--------|
+| New | [#919](https://tfc.com/apartments/4720-center-blvd/919) @ 4720 Center Blvd | Hunters Point / LIC | $3,175 | ~$3,043 | Studio | 1 | — | Building only | Not specified | ~30–35 min | None | 2007 | Yes | — | 47/60 | [Details](reports/4720-center-blvd-919.md) |
+| New | [#1611](https://tfc.com/apartments/4540-center-blvd/1611) @ 4540 Center Blvd | Hunters Point / LIC | $3,465 | $3,177 | Studio | 1 | — | Building only | Electricity separate | ~30–35 min | None | 2011 | Yes | — | 46/60 | [Details](reports/4540-center-blvd-1611.md) |
+| New | [#205](https://www.avaloncommunities.com/new-york/long-island-city-apartments/avalon-riverview/apartment/NY011-NY018-001-205/) @ 4-75 48th Ave | Hunters Point / LIC | $3,208 | ~$2,979 | Studio | 1 | 493 | Not specified | Electric/water/sewer tenant | ~25–32 min | None | 2006 | Yes | Aug 02 | 47/60 | [Details](reports/4-75-48th-ave-205.md) |
+| New | [#A](https://streeteasy.com/building/27-avenue-c-new_york/a?utm_source=web&utm_medium=share&utm_campaign=rental_listing&utm_term=3979562_10538526&lstt=6IjlJT0fkunzvrMItD-Sj2HfeRmb2lFv3zd90DdKbkPDjHExHEmmnueOqzuMryZAF4qWerWILkcmpQ9z) @ 27 Avenue C | East Village | $3,300 | $3,300 | Studio | 1 | — | In-unit | Not specified | ~20–25 min | None | 1910 | Not specified | Now | 44/60 | [Details](reports/27-avenue-c-a.md) |
